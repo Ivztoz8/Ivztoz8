@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  
  
 ### Projects  
+|----------------------------------------||
 | N° | Name | About                    ||  
 | ------------ | :-----------: | -----------: |  
 | 1 | Kernel | I’m looking to collaborate to develop a unix kernel and later a unix-like or linux-like operating system.||  
