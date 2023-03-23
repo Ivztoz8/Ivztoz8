@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 | 3 | Blockchain     | I'm studying the functioning of the blockchain for the possible collaboration with some project or for the creation of an Ethereum or cosmos sub-network   ||
 | 4 | Electric motor | Even if it seems lateral as a project I'm studying to create an electric motor controllable by a remote circuit possibly developed in arduino or raspberryPi ||
 
+
+| First Header | Second Header |         Third Header |  
+| :----------- | :-----------: | -------------------: |  
+| First row    |      Data     | Very long data entry |  
+| Second row   |    **Cell**   |               *Cell* |  
+[simple_table]
