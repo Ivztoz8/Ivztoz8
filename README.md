@@ -18,11 +18,11 @@ Here are some ideas to get you started:
  
 ### Learnings
  
- 🌱 I’m currently learning Angular in a specialization course. 
- 🌱 I’m currently learning Tailwind css in a online course.
- 🌱 I’m learning linux kernel in a independent study.
- 🌱 I’m learning R css in a online (UDEMY) course.
- 🌱 I'm deepening the study of magnetic fields and optics for the reception of electromagnetic waves in possible energy developments.
+* 🌱 I’m currently learning Angular in a specialization course. 
+* 🌱 I’m currently learning Tailwind css in a online course.
+* 🌱 I’m learning linux kernel in a independent study.
+* 🌱 I’m learning R css in a online (UDEMY) course.
+* 🌱 I'm deepening the study of magnetic fields and optics for the reception of electromagnetic waves in possible energy developments.
  
  
 ### Projects 
