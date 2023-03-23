@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  🌱 I’m currently learning Angular in a specialization course. 
  
  
-|              | Projects                   ||  
+|              Projects                   ||  
 | N° | Second Header | Third Header |  
 | ------------ | :-----------: | -----------: |  
 | 1 | Kernel | I’m looking to collaborate to develop a unix kernel and later a unix-like or linux-like operating system.||  
