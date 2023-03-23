@@ -20,9 +20,9 @@ Here are some ideas to get you started:
  
 ### Projects 
 
-|----------------------------------------||
-| N° | Name | About                    ||  
-| ------------ | :-----------: | -----------: |  
+|----------------------------------------|
+| N° | Name | About                    |   |  
+| ------------ | :------------------------------------------------------------------------------------------:|  
 | 1 | Kernel | I’m looking to collaborate to develop a unix kernel and later a unix-like or linux-like operating system.||  
 | 2 | Framework css | I'm trying to study the possible creation of a css framework in PHP      ||  
 | 3 | Blockchain     | I'm studying the functioning of the blockchain for the possible collaboration with some project or for the creation of an Ethereum or cosmos sub-network   ||
