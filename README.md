@@ -1,5 +1,5 @@
 # Hi I'm Ivan 👋
-[image](./images.png)
+![image](./images.png)
 ## I'm an Italian **developer** who loves to learn the most diverse development technologies
 <!--
 **Ivztoz8/Ivztoz8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
