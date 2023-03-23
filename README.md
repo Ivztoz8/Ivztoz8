@@ -18,7 +18,8 @@ Here are some ideas to get you started:
  🌱 I’m currently learning Angular in a specialization course. 
  
  
-### Projects  
+### Projects 
+
 |----------------------------------------||
 | N° | Name | About                    ||  
 | ------------ | :-----------: | -----------: |  
